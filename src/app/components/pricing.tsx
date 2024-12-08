@@ -3,7 +3,7 @@ import { CiSearch } from 'react-icons/ci'
 import { FaArrowRightLong } from 'react-icons/fa6'
 import { IoCartOutline } from 'react-icons/io5'
 import NavBarMobile from './navBarMobile'
-import { Link } from 'lucide-react'
+import Link from 'next/link'
 
 const Pricing = () => {
   return (
